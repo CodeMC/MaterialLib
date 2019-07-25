@@ -1,6 +1,7 @@
 package it.feargames.materiallib.services;
 
 import it.feargames.materiallib.utilities.ServerVersion;
+import org.bukkit.Material;
 import org.bukkit.Server;
 
 import java.util.logging.Logger;
